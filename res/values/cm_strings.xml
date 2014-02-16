@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
     <!-- Setting title for showing/hiding the alarm status bar icon -->
     <string name="show_status_bar_icon_title">Show icon</string>
 
@@ -70,8 +69,7 @@
     <string name="shake_action_summary" product="default">Shaking the phone will <xliff:g id="action">%s</xliff:g></string>
 
     <!-- Summary texts for shake and flip actions -->
-    <string name="action_summary_snooze">Snooze alarm</string>
-    <string name="action_summary_dismiss">Dismiss alarm</string>
-    <string name="action_summary_do_nothing">Do nothing</string>
-
+    <string name="action_summary_snooze">snooze alarm</string>
+    <string name="action_summary_dismiss">dismiss alarm</string>
+    <string name="action_summary_do_nothing">do nothing</string>
 </resources>
