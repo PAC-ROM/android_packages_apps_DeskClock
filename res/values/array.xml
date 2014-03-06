@@ -958,4 +958,10 @@
         <item>@null</item>
         <item>@null</item>
     </array>
+    <string-array  name="pac_clock_backgrounds_drawable"  translatable="false">
+        <item>appwidget_pac_color_clock_dial</item>
+        <item>appwidget_pac_black_clock_dial</item>
+        <item>appwidget_pac_blue_clock_dial</item>
+        <item>appwidget_pac_gray_clock_dial</item>
+    </string-array>
 </resources>

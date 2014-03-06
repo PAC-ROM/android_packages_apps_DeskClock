@@ -819,5 +819,12 @@
     <string name="no_alarms">No Alarms</string>
     <!-- String for no enabled alarms in timeline view [CHAR LIMIT=30] -->
     <string name="no_upcoming_alarms">NO UPCOMING ALARMS</string>
+
+    <!-- Label for PAC clock widget -->
+    <string name="analog_pac_gadget">PAC clock</string>
+
+    <!-- Appears at the top of the PAC Clock Picker screen: Tell user to select a clock Dial to display -->
+    <string name="clock_dial_instructions">Choose a clock dial</string>
+
 </resources>
 
