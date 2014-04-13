@@ -6,3 +6,5 @@ gen/
 out/
 lint.xml
 project.properties
+*~
+.DS_Store
